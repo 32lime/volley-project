@@ -57,6 +57,7 @@ function NameForm({addPlayerToReact}) {
       <label>
         <input
           type="text"
+          placeholder='Type player name...'
           value={name}
           className="join-input"
           onChange={(e) => setName(e.target.value)}
