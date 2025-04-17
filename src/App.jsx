@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="layout">
-      <h1 className="title">Lentopallo 16.4.2025</h1>
+      <h1 className="title">Lentopallo 19.4.2025</h1>
       <Teams
         teamBlue={teamBlue}
         teamRed={teamRed}
